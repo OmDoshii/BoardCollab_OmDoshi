@@ -33,7 +33,7 @@ A real-time collaborative whiteboard built with the MERN stack. Multiple people 
 ### 1. Clone the repo
  
 ```bash
-git clone https://github.com/YOUR_USERNAME/BoardCollab.git
+git clone https://github.com/OmDoshii/BoardCollab.git
 cd BoardCollab
 ```
 
